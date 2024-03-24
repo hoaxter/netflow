@@ -1,4 +1,4 @@
-# netflow
+# NetFlow
 
 ![Witcher-Logo-PNG-758x473-fotor-bg-remover-20240324133956](https://github.com/hoaxter/netflow/assets/141468297/69ccbda0-ca2d-48cd-b138-d2db5bf01ad8)
 
