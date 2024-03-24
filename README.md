@@ -1,7 +1,6 @@
 # netflow
 
-![Uploading Witcher-Logo-PNG-758x473-fotor-bg-remover-20240324133956.png…]()
-
+![Witcher-Logo-PNG-758x473-fotor-bg-remover-20240324133956](https://github.com/hoaxter/netflow/assets/141468297/69ccbda0-ca2d-48cd-b138-d2db5bf01ad8)
 
   This Python script utilizes Scapy for sniffing network packets and provides functionalities such as packet count alerts, packet counts by type, and the ability to change the interface for sniffing.
  
