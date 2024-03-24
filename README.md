@@ -1,5 +1,5 @@
 # netflow
- This Python script utilizes Scapy for sniffing network packets and provides functionalities such as packet count alerts, packet counts by type, and the ability to change the interface for sniffing.
+  This Python script utilizes Scapy for sniffing network packets and provides functionalities such as packet count alerts, packet counts by type, and the ability to change the interface for sniffing.
  
 ## Features
 
@@ -30,13 +30,13 @@
    ```
    Choose options from the menu to perform various actions such as sniffing packets, setting alerts, displaying packet counts, etc.
 
-##Configuration
+## Configuration
 
 - Modify the ports dictionary to add or remove ports of interest.
 - Adjust the limit variable to set the threshold for packet count alerts.
 - Change the iface variable to specify the network interface for packet sniffing.
 
-##Menu Options
+## Menu Options
 
 - Normal Sniff (Option 0): Sniff packets without setting any alerts.
 - Alert Sniff (Option 1): Set alerts for packet counts exceeding a specified limit.
@@ -45,8 +45,8 @@
 - Change Interface (Option 4): Change the network interface for packet sniffing.
 - Exit (Option 5): Quit the program.
 
-##Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
+## Contributing
+   Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-##License
-This project is licensed under the GNU General Public License (GPL).
+## License
+   This project is licensed under the GNU General Public License (GPL).
