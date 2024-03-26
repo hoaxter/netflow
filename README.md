@@ -17,7 +17,7 @@
 1. Clone the repository:
 
    ```
-   git clone https://github.com/hoaxter/network-packet-sniffer.git
+   git clone https://github.com/hoaxter/netflow.git
    ```
 2. Open the directory
    ```
