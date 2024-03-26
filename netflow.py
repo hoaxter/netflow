@@ -11,7 +11,7 @@ counts = {}
 ports = {21: "FTP", 22: "SSH", 23: "Telnet", 161: "SNMP", 162: "SNMP Trap", 520: "RIP", 25: "SMTP", 53: "DNS"}
 alerted = {}
 limit = 20
-iface = "MediaTek Wi-Fi 6 MT7921 Wireless LAN Card"
+iface = ""
 
 def update(port):
     name = ports.get(port, "Unknown")
