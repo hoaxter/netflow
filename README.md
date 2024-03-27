@@ -31,6 +31,9 @@
    ```
    python netflow.py
    ```
+   ![Screenshot 2024-03-27 185424](https://github.com/hoaxter/netflow/assets/141468297/5ff85c2c-662a-4053-b426-355ef6849b1f)
+ 
+   
    Choose options from the menu to perform various actions such as sniffing packets, setting alerts, displaying packet counts, etc.
 
 ## Configuration
